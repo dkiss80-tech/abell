@@ -1,0 +1,6 @@
+{
+  "name": "학원 스마트 벨",
+  "description": "요일별·시간별 학원 시작종과 종료종을 최대 음량으로 자동 송출하고, 쉬는 시간 기반 연속 스케줄 추가와 매주 반복을 지원하는 학원 벨 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
